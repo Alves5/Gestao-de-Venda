@@ -1,0 +1,10 @@
+com\mycompany\gestao\venda\modelo\dominio\VendaItem.class
+com\mycompany\gestao\venda\modelo\dominio\Venda.class
+com\mycompany\gestao\venda\Main.class
+com\mycompany\gestao\venda\modelo\dominio\Perfil.class
+com\mycompany\gestao\venda\modelo\dominio\Categoria.class
+com\mycompany\gestao\venda\modelo\dominio\Usuario.class
+com\mycompany\gestao\venda\modelo\dominio\Produto.class
+com\mycompany\gestao\venda\modelo\dominio\Cliente.class
+com\mycompany\gestao\venda\modelo\conexao\Conexao.class
+com\mycompany\gestao\venda\modelo\conexao\ConexaoMysql.class
